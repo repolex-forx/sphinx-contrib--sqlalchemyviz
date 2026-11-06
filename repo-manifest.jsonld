@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sphinx-contrib/sqlalchemyviz/commit/0abac04599bb8477a9059def1ff333701a2a1891",
       "git:hexsha": "0abac04599bb8477a9059def1ff333701a2a1891",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
